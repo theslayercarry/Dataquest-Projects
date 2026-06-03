@@ -13,7 +13,7 @@ Tools:
 - Python
 - Jupyter Notebook
 
-
+------------------------------------------------------------------------------------------
 ### Project 2 - Exploring Hacker News Posts 
 - Analyzed Ask HN vs Show HN posts to determine which receive more comments on average
 - Analyzed time-of-day effects on comment activity
