@@ -2,7 +2,7 @@
 
 A collection of my Dataquest data analysis and data science projects.
 
-## Projects
+## Projects:
 
 ### Project 1 - Profitable App Profiles
 - Analyzed App Store and Google Play datasets
