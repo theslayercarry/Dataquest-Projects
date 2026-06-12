@@ -2,7 +2,7 @@
 
 A collection of my Dataquest data analysis and data science projects.
 
-## Projects
+## Projects:
 
 ### Project 1 - Profitable App Profiles
 - Analyzed App Store and Google Play datasets
@@ -12,3 +12,15 @@ A collection of my Dataquest data analysis and data science projects.
 Tools:
 - Python
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------
+### Project 2 - Exploring Hacker News Posts 
+- Analyzed Ask HN vs Show HN posts to determine which receive more comments on average
+- Analyzed time-of-day effects on comment activity
+- Compared average points for Ask HN and Show HN posts
+- Identified patterns in user engagement based on post type and timing
+
+Tools:
+- Python
+- Jupyter Notebook
+
