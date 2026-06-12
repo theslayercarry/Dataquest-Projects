@@ -34,6 +34,5 @@ Tools:
 
 Tools:
 - Python
-- Pandas
-- NumPy
+- Pandas, NumPy
 - Jupyter Notebook
