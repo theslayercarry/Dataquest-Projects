@@ -26,7 +26,7 @@ Tools:
 
 ------------------------------------------------------------------------------------------
 ### Project 3 - Exploratory Data Analysis of Used Car Listings (eBay Kleinanzeigen)
-- Analyzed used car listings to identify key factors influencing vehicle prices (brand, model, mileage, registration year, damage status)
+- Analyzed used car listings to identify key factors influencing vehicle prices (brand, model, mileage, registration year)
 - Performed data cleaning including removal of invalid values, outliers, and irrelevant features
 - Investigated distributions of numerical and categorical variables
 - Compared average prices and mileage across different car brands
