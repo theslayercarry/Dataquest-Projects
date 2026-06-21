@@ -36,3 +36,16 @@ Tools:
 - Python
 - Pandas, NumPy
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------
+### Project 4 - Exploratory Data Analysis of Traffic Intensity on I-94 Highway
+- Analyzed traffic intensity on the I-94 highway to identify key factors influencing traffic volume
+- Investigated the impact of temporal features such as time of day, day of week, and month on traffic patterns
+- Studied weather conditions (temperature, precipitation, cloud cover, etc.) and their relationship with traffic density
+- Conducted exploratory data analysis (EDA) to uncover patterns, distributions, and correlations in the dataset
+- Identified conditions associated with peak and low traffic intensity periods
+
+Tools:
+- Python
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebook
