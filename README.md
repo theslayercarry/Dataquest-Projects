@@ -49,3 +49,16 @@ Tools:
 - Python
 - Pandas, NumPy, Matplotlib
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------
+### Project 5 - EUR/USD Exchange Rate Analysis and Data Storytelling
+
+- Analyzed historical EUR/USD exchange rate dynamics using long-term financial data
+- Investigated key periods including the 2007–2008 financial crisis, Eurozone debt crisis, COVID-19 pandemic, and the Russia–Ukraine conflict
+- Applied time series analysis techniques such as moving averages to identify long-term trends and reduce short-term volatility
+- Created narrative-driven visualizations to explain how global economic and geopolitical events influenced currency movements
+
+Tools:
+- Python
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebook
