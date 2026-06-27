@@ -1,6 +1,6 @@
 # Dataquest Projects
 
-A collection of my Dataquest data analysis and data science projects.
+A collection of data analysis and data science projects completed as part of the Dataquest learning path.
 
 ## Projects:
 
