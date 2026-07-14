@@ -62,3 +62,18 @@ Tools:
 - Python
 - Pandas, NumPy, Matplotlib
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------
+### Project 6 - Exploratory Data Analysis of Jeopardy Quiz Questions
+
+- Analyzed a dataset of Jeopardy quiz questions to identify patterns that could help contestants answer questions more successfully
+- Prepared the dataset for text and statistical analysis
+- Investigated whether higher-value questions differ from lower-value questions in terms of vocabulary and recurring topics
+- Applied Chi-square tests to identify words significantly associated with higher-value questions
+- Created a storytelling visualization to illustrate how topic repetition changed over time
+
+Tools:
+
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn, SciPy
+- Jupyter Notebook
