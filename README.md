@@ -77,3 +77,17 @@ Tools:
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - Jupyter Notebook
+
+### Project 7 - Exploratory Data Analysis of Voluntary Employee Resignations in Queensland Education Sector
+
+- Analyzed employee survey data from two Queensland public education institutions (DETE and TAFE) to investigate factors associated with voluntary resignations
+- Cleaned, standardized, and merged datasets with different structures into a unified dataset for analysis
+- Investigated patterns of job dissatisfaction across employee tenure and age groups to identify potential drivers of turnover
+- Created explanatory visualizations to communicate the relationship between employee dissatisfaction, tenure, and age
+- Analyzed the correlation between employee tenure and the total number of dissatisfaction factors reported by employees
+
+Tools:
+
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook
