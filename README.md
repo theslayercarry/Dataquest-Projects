@@ -78,6 +78,7 @@ Tools:
 - Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - Jupyter Notebook
 
+------------------------------------------------------------------------------------------
 ### Project 7 - Exploratory Data Analysis of Voluntary Employee Resignations in Queensland Education Sector
 
 - Analyzed employee survey data from two Queensland public education institutions (DETE and TAFE) to investigate factors associated with voluntary resignations
