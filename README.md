@@ -92,3 +92,17 @@ Tools:
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------
+### Project 8 - Analysis of Factors Associated with SAT Performance in NYC High Schools
+
+- Integrated, cleaned, and standardized multiple public datasets on New York City schools into a unified analytical dataset, combining SAT results, demographics, survey responses, graduation statistics and school directory information.
+- Investigated relationships between SAT performance and a wide range of school and student characteristics, including demographic composition, graduation rates, class size, academic expectations, school safety, and other factors influencing academic outcomes.
+- Aggregated school-level data to the district level and identified school districts with the strongest combination of SAT performance, student academic expectations, and school safety indicators.
+- Applied the findings to identify residential areas offering access to multiple high-performing schools, demonstrating how educational data can support data-driven home-buying decisions.
+
+Tools:
+
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook
