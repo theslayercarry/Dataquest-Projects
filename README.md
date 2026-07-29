@@ -96,10 +96,10 @@ Tools:
 ------------------------------------------------------------------------------------------
 ### Project 8 - Analysis of Factors Associated with SAT Performance in NYC High Schools
 
-- Integrated, cleaned, and standardized multiple public datasets on New York City schools into a unified analytical dataset, combining SAT results, demographics, survey responses, graduation statistics and school directory information.
-- Investigated relationships between SAT performance and a wide range of school and student characteristics, including demographic composition, graduation rates, class size, academic expectations, school safety, and other factors influencing academic outcomes.
-- Aggregated school-level data to the district level and identified school districts with the strongest combination of SAT performance, student academic expectations, and school safety indicators.
-- Applied the findings to identify residential areas offering access to multiple high-performing schools, demonstrating how educational data can support data-driven home-buying decisions.
+- Integrated, cleaned, and standardized multiple public datasets on New York City schools into a unified analytical dataset, combining SAT results, demographics, survey responses, graduation statistics, class size, and school directory information.
+- Investigated correlations between SAT performance and key school-level characteristics, including demographic composition, socioeconomic indicators, the proportion of English language learners (ELLs), academic expectations, and school safety, to identify the factors most strongly associated with student performance.
+- Aggregated school-level data to the district level and identified the highest-performing school districts based on SAT results, student academic expectations, and school safety indicators.
+- Applied the findings to identify residential areas offering access to multiple high-performing schools, demonstrating how educational data can support informed home-buying decisions.
 
 Tools:
 
