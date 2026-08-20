@@ -106,3 +106,19 @@ Tools:
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------
+### Project 9 - Exploratory Data Analysis of Star Wars Survey
+
+- Analyzed survey data on audience preferences and perceptions of the Star Wars film franchise
+- Cleaned and standardized a complex survey dataset containing grouped questions, inconsistent column names, and categorical responses
+- Compared viewing rates and average rankings across all six episodes, identifying unexpectedly low results for Episodes II and III and exploring potential explanations based on character perceptions
+- Analyzed character perceptions, identifying notably mixed attitudes toward characters such as Anakin Skywalker and Padmé Amidala
+- Developed and tested a hypothesis that differences in character perceptions were associated with respondents’ age groups, using scatter plots to examine relationships between age, perceptions of Anakin Skywalker, and rankings of Episodes II and III
+- Quantified the observed relationships using Pearson correlation coefficients and critically evaluated the findings, including limitations related to broad age-group intervals, sample size, and the temporal context of the comparison
+
+Tools:
+
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook
