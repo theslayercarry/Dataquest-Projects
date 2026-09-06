@@ -1,4 +1,4 @@
-# Dataquest Projects
+# Data Science Projects
 
 A collection of data analysis and data science projects completed as part of the Dataquest learning path.
 
